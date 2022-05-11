@@ -1,0 +1,22 @@
+
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size: 20px;
+}
+.heading button {
+    float: right;
+    border: solid lavenderblush 1px !important;
+}
+canvas{
+    border: solid 1px white;
+    box-shadow: 4px 2px 5px linen;
+    border-radius: 12px;
+}
+#footer{
+    line-height: 2;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+}
